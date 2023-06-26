@@ -1,5 +1,6 @@
-from enum import Enum
 
+from enum import Enum
+# Hello
 class Adresa:
     mesto:str
     ulice:str
