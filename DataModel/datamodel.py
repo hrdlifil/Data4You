@@ -58,3 +58,6 @@ class Zamestnanec:
 
 x = Pohlavi.MUZ
 print(x.value)
+
+
+#Komentar
