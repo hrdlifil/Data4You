@@ -61,3 +61,4 @@ print(x.value)
 
 
 #Komentar
+#Komentar po vymazani suboru 
