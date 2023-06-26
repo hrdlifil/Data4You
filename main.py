@@ -14,7 +14,7 @@ def remove_item(l:list[str], value_to_be_removed:str) -> list[str]:
         l.remove(value_to_be_removed)
 
     return l
-    
+# koment   
 def replace_items(l:list[str], first_value:str, second_value:str) -> bool:
     to_return = False
     for index in range(0, len(l)):
@@ -23,7 +23,7 @@ def replace_items(l:list[str], first_value:str, second_value:str) -> bool:
             to_return = True
 
     return to_return
-
+# druhý koment
 def find_item(l:list[str], value:str) -> list[str]:
     for index in range(0, len(l)):
         if l[index] == value: # index = 1
